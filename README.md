@@ -1,6 +1,7 @@
 # Portfolio Github Web Page
 
-[<img src ="https://img.shields.io/badge/Website-Juan_Prado-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanvieiraprado99.netlify.app) 
+[<img src ="https://img.shields.io/badge/Website-Juan_Prado-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanvieiraprado99.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86ca042e-717b-4735-be48-5fb64b83fd24/deploy-status)](https://app.netlify.com/sites/juanvieiraprado99/deploys)
 
 Espero que gostem. 😄
 
